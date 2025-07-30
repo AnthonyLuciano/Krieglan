@@ -2,7 +2,7 @@
 
 ![](https://github.com/AnthonyLuciano/Krieglan/blob/main/gifs/gladgers-hacker-gers-guardians-of-galaxy.gif)
 
-Desenvolvedor back-end com experiência em Java e Python, e aprendendo Kotlin.
+Desenvolvedor back-end com experiência em Java e Python,conhecimento em C# e aprendendo Kotlin.
 
 ## 📊 Estatísticas do GitHub
 
