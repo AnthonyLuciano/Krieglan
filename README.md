@@ -51,5 +51,5 @@ Bot de Discord para gerenciamento de doações via PIX com integração Mercado 
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anthony-luciano-dev)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anthonylucianodev@proton.me)
+[![Proton Mail](https://img.shields.io/badge/Proton%20Mail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:anthonylucianodev@proton.me)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnthonyLuciano)
