@@ -1,8 +1,6 @@
 # 👋 Olá, eu sou Anthony Luciano!
 
-<div align="center">
-  <img src="https://media.tenor.com/5LS8LQdR5i4AAAAi/gladgers-hacker-gers-guardians-of-galaxy.gif" width="150px" alt="Hacker GIF">
-</div>
+![](https://github.com/AnthonyLuciano/Krieglan/blob/main/gifs/gladgers-hacker-gers-guardians-of-galaxy.gif)
 
 Desenvolvedor back-end com experiência em Java e Python, e aprendendo Kotlin.
 
@@ -18,7 +16,7 @@ Desenvolvedor back-end com experiência em Java e Python, e aprendendo Kotlin.
 
 ### 1. 🤖 [DeepSeek CLI](https://github.com/AnthonyLuciano/deepseek-cli)
 [![Repo Stars](https://img.shields.io/github/stars/AnthonyLuciano/deepseek-cli?style=for-the-badge&logo=github)](https://github.com/AnthonyLuciano/deepseek-cli/stargazers)
-[![Last Commit](https://img.shields.io/github/last-commit/AnthonyLuciano/deepseek-cli?style=for-the-badge&logo=git)](https://github.com/AnthonyLuciano/deepseek-cli/commits/main)
+[![Arch Maintainer](https://img.shields.io/badge/Arch%20Maintainer-AUR-blue?style=for-the-badge&logo=arch-linux)](https://aur.archlinux.org/packages/deepseek-cli)
 
 Assistente de linha de comando para interagir com a API DeepSeek, desenvolvido em Python.
 
@@ -30,7 +28,7 @@ Sistema completo de gestão para bibliotecas universitárias desenvolvido em Jav
 
 ### 3. 💙 [HugMe Discord Bot](https://github.com/AnthonyLuciano/HugMe-DiscordBot)
 [![Issues](https://img.shields.io/github/issues/AnthonyLuciano/HugMe-DiscordBot?style=for-the-badge&logo=github)](https://github.com/AnthonyLuciano/HugMe-DiscordBot/issues)
-[![License](https://img.shields.io/github/license/AnthonyLuciano/HugMe-DiscordBot?style=for-the-badge)](https://github.com/AnthonyLuciano/HugMe-DiscordBot)
+[![Last Commit](https://img.shields.io/github/last-commit/AnthonyLuciano/HugMe-DiscordBot?style=for-the-badge&logo=git)](https://github.com/AnthonyLuciano/HugMe-DiscordBot/commits/main)
 
 Bot de Discord para gerenciamento de doações via PIX com integração Mercado Pago.
 >feito para suporte a um servidor TEA <3
