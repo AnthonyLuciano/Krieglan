@@ -15,19 +15,16 @@ Desenvolvedor back-end com experiência em Java e Python,conhecimento em C# e ap
 ## 🚀 Projetos Destacados
 
 ### 1. 🤖 [DeepSeek CLI](https://github.com/AnthonyLuciano/deepseek-cli)
-[![Repo Stars](https://img.shields.io/github/stars/AnthonyLuciano/deepseek-cli?style=for-the-badge&logo=github)](https://github.com/AnthonyLuciano/deepseek-cli/stargazers)
 [![Arch Maintainer](https://img.shields.io/badge/Arch%20Maintainer-AUR-blue?style=for-the-badge&logo=arch-linux)](https://aur.archlinux.org/packages/deepseek-cli)
 
 Assistente de linha de comando para interagir com a API DeepSeek, desenvolvido em Python.
 
 ### 2. 📚 [BibliotecaVirtual](https://github.com/AnthonyLuciano/BibliotecaVirtual)
-[![Repo Size](https://img.shields.io/github/repo-size/AnthonyLuciano/BibliotecaVirtual?style=for-the-badge&logo=github)](https://github.com/AnthonyLuciano/BibliotecaVirtual)
 [![Languages](https://img.shields.io/github/languages/count/AnthonyLuciano/BibliotecaVirtual?style=for-the-badge&logo=github)](https://github.com/AnthonyLuciano/BibliotecaVirtual)
 
 Sistema completo de gestão para bibliotecas universitárias desenvolvido em Java/Spring Boot.
 
 ### 3. 💙 [HugMe Discord Bot](https://github.com/AnthonyLuciano/HugMe-DiscordBot)
-[![Issues](https://img.shields.io/github/issues/AnthonyLuciano/HugMe-DiscordBot?style=for-the-badge&logo=github)](https://github.com/AnthonyLuciano/HugMe-DiscordBot/issues)
 [![Last Commit](https://img.shields.io/github/last-commit/AnthonyLuciano/HugMe-DiscordBot?style=for-the-badge&logo=git)](https://github.com/AnthonyLuciano/HugMe-DiscordBot/commits/main)
 
 Bot de Discord para gerenciamento de doações via PIX com integração Mercado Pago.
